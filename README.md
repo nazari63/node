@@ -111,3 +111,4 @@ See also full list of [contributors](https://github.com/mysteriumnetwork/node/co
 ## License
 
 This project is licensed under the terms of the GNU General Public License v3.0 (see [details](./LICENSE)).
+This project is a demonstration of blockchain technology and smart contract integration.
